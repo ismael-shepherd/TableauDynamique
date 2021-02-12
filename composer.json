@@ -1,0 +1,17 @@
+{
+    "name": "zrdde/taleaudynamique",
+    "authors": [
+        {
+            "name": "Ismael Shepherd",
+            "email": "ismaelshepherd@hotmail.com"
+        }
+    ],
+    "require": {
+        "symfony/var-dumper": "^5.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
